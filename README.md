@@ -1,0 +1,2 @@
+Nuevo proyecto creado para el curso Desarrollo de servicios en la nube con HTML5, Javascript y node.js.
+El proyecto llamado random es una copia del proyecto que se encuentra en el link: http://www.github.com/jquemada/random
